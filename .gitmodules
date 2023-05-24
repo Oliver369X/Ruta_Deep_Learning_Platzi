@@ -1,3 +1,6 @@
+[submodule "1 Curso de fundamentos de redes neuronales"]
+	path = 1 Curso de fundamentos de redes neuronales
+	url = https://github.com/Oliver369X/Ruta_deep_learning_platzi
 [submodule "2 Curso de Redes Neuronales Convolucionales con Python y Keras"]
 	path = 2 Curso de Redes Neuronales Convolucionales con Python y Keras
 	url = https://github.com/Oliver369X/Ruta_deep_learning_platzi
